@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+@import "../../common/utils.css";
+
+@import "../common/header-amap.css";
+
+@import "../common/footer-amap.css";
+
+.map-container {
+    width: 90%; 
+    height: 500px; 
+    border: 1px solid var(--main-bg-color); 
+    border-radius: 10px; 
+    overflow: hidden; 
+    position: relative; 
+}
+
+.map {
+    width: 100%; 
+    height: 100%;
+}
+
+h5{
+	margin-top:20px;
+}
+
+.title{
+	margin-top:40px;
+}
+
+
+

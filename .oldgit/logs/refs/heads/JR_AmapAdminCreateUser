@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 28865ca13b40044d9d51ed0f94232603200ee0b1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734515287 +0100	branch: Created from refs/remotes/origin/master
+28865ca13b40044d9d51ed0f94232603200ee0b1 7078f0444ae2291a18f108485e5673099c6848aa Elvariand <95416175+Elvariand@users.noreply.github.com> 1734515295 +0100	pull: Fast-forward
+7078f0444ae2291a18f108485e5673099c6848aa 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516641 +0100	commit (merge): synchronization second morning
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621723 +0100	merge JR_FrontPlateform: Fast-forward
+c515b57952fecc81f06e613e6ae228adcccdc9b5 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625876 +0100	merge JR_FrontPlateform: Fast-forward
+b8d81dbb3810b0e133dedcf802f519e58d9808a0 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689743 +0100	pull: Fast-forward
+63831b0922400437221f1a02908330180074d83b 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689834 +0100	Branch: renamed refs/heads/master to refs/heads/JR_AmapAdminCreateUser
+63831b0922400437221f1a02908330180074d83b 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701644 +0100	Branch: renamed refs/heads/JR_AmapAdminCreateUser to refs/heads/pam_authorization
+63831b0922400437221f1a02908330180074d83b c467543bef91f3971896951d2084d9049fefd17e Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701690 +0100	pull origin pam_authorization: Fast-forward
+c467543bef91f3971896951d2084d9049fefd17e 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701805 +0100	pull: Merge made by the 'ort' strategy.
+132b34672100286555b36614c3de388fa2c6a981 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701856 +0100	Branch: renamed refs/heads/pam_authorization to refs/heads/JR_AmapAdminCreateUser
+132b34672100286555b36614c3de388fa2c6a981 bcfa396e21e2ec318daa3143503661e5583439f3 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702185 +0100	merge pam_authorization: Fast-forward
+bcfa396e21e2ec318daa3143503661e5583439f3 20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702235 +0100	commit: fixed userservice
+20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d 4830874f6de9f819b8efe845e0a6793ba261dca1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897650 +0100	commit: kinda rebase
+4830874f6de9f819b8efe845e0a6793ba261dca1 317155dfb3e3f7e9b923a282ed0a3a91a0ed3e18 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897779 +0100	commit (merge): fix conflict
+317155dfb3e3f7e9b923a282ed0a3a91a0ed3e18 b7994fc847acced375d410f125aac44975ee38e7 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735295279 +0100	commit: almost done for with spring and validation to modify
+b7994fc847acced375d410f125aac44975ee38e7 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299542 +0100	pull: Fast-forward
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735307975 +0100	pull: Fast-forward
+f15594ead3cc6565d612af0049a000759b551a58 c7d31e664eac5d708431e9674f80ef5bcabb308e Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310564 +0100	pull: Fast-forward
+c7d31e664eac5d708431e9674f80ef5bcabb308e 915e17e9454cf62ed05771d27d1c23c45ac017b0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310703 +0100	commit: update tenancyService
+915e17e9454cf62ed05771d27d1c23c45ac017b0 79ed2f8a8369a1fa2ae9f27c21d703226fb85e9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1735313816 +0100	commit: update routing
+79ed2f8a8369a1fa2ae9f27c21d703226fb85e9d f5397515a7d928e2f25db0630c6f92e7a0013d23 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735394529 +0100	commit: update form to springForm wip
+f5397515a7d928e2f25db0630c6f92e7a0013d23 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735572605 +0100	commit: sidebar admin and header admin
+9b5b092e721f3e933dd97163d38fe4bdc5078603 4de898ac1d918205026390c543b7b8c1b49ec9d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735829250 +0100	commit: css backoffice amap WIP
+4de898ac1d918205026390c543b7b8c1b49ec9d9 a0a88debfaa76417decacf7a2dba96ddf06c6c9f Elvariand <95416175+Elvariand@users.noreply.github.com> 1735893521 +0100	pull: Fast-forward
+a0a88debfaa76417decacf7a2dba96ddf06c6c9f c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894352 +0100	commit: fonts.css
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735922420 +0100	commit: update CSS
+97450752e6f94dfb487a189de3becfe12bbdc918 61a429da419bf647ce3eb4cb61c95863b85444d4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736011055 +0100	commit: css user-list complete
+61a429da419bf647ce3eb4cb61c95863b85444d4 342a673bb478eb4b5a1f69c99f80314280d8eb68 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736039071 +0100	commit: update form user need to pass validation
+342a673bb478eb4b5a1f69c99f80314280d8eb68 d62436b3a1662acf9117e37521f35f3b5c3802ec Elvariand <95416175+Elvariand@users.noreply.github.com> 1736075648 +0100	commit: user-details form back and front ok
+d62436b3a1662acf9117e37521f35f3b5c3802ec 292536e4ce9d2958a8d8e3d9e93bc80fc65a9884 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736113681 +0100	commit: added verification client side
+292536e4ce9d2958a8d8e3d9e93bc80fc65a9884 46783c50360cdeb317d13db7125accf5d97181a2 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157224 +0100	commit: finally over
+46783c50360cdeb317d13db7125accf5d97181a2 b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157808 +0100	commit (merge): merge conflict fix

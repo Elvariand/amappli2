@@ -1,0 +1,107 @@
+@charset "UTF-8";
+@import "../common/utils.css";
+@import "common/header-amap.css"; 
+@import "common/footer-amap.css";
+
+
+        .contact-container {
+            margin: 40px auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 40px;
+            max-width: 1000px;
+        }
+        .contact-info, .contact-form {
+            flex: 1 1 300px;
+            max-width: 500px;
+             max-height: 600px;
+        }
+        .contact-info {
+            background-color:  #fffaf4;
+            padding: 20px;
+            border-radius: 20px;
+        }
+        
+        
+        .contact-info h2 {
+         text-align: center;
+            font-weight: bold;
+            margin-bottom: 20px;
+            font-size: 26px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+            
+        }
+        .contact-form {
+            background-color: #fffaf4;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        .contact-form h2 {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-size: 26px;
+        }
+        .contact-form .form-label {
+            font-size: 14px;
+            font-weight: bold;
+            
+           
+        }
+        .contact-form input.form-control {
+            border: none;
+            border-bottom: 2px solid #fdbf92;
+            border-radius: 0;
+            box-shadow: none;
+            background-color: transparent;
+            margin-bottom: 25px;
+        }
+        .contact-form .form-control:focus {
+            border-bottom: 2px solid #fda57d;
+            outline: none;
+            box-shadow: none;
+        }
+        .contact-form button.btn {
+            display: block; 
+            margin: 10px auto;
+            border: none;
+            border-radius: 30px;
+            margin-top: 20px;
+            width: 30% ;
+            transition: background-color 0.3s ease;
+          
+        }
+        .contact-form button.btn-submit:hover {
+            background-color: #fda57d;
+        }
+        .map {
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+       
+        @media (max-width: 768px) {
+            .contact-container {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        
+        textarea.form-control {
+    border: 2px solid #fdbf92; 
+    border-radius: 5px; 
+    padding: 10px; 
+    outline: none; 
+}
+
+.map-container {
+    width: 100%; /* La carte occupe toute la largeur de son conteneur */
+   height: auto;
+   border-radius: 10px;
+}

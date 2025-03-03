@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 a7d4e8e13016ef145c0ca785746bc72d2f04075a Elvariand <95416175+Elvariand@users.noreply.github.com> 1734430951 +0100	commit (initial): project skeleton
+a7d4e8e13016ef145c0ca785746bc72d2f04075a 20baa59473fe559b84f8da428e353813f8a5fb9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734431642 +0100	commit (merge): project skeleton
+20baa59473fe559b84f8da428e353813f8a5fb9d 20baa59473fe559b84f8da428e353813f8a5fb9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734442440 +0100	Branch: renamed refs/heads/master to refs/heads/JR_FrontPlateform
+20baa59473fe559b84f8da428e353813f8a5fb9d 28865ca13b40044d9d51ed0f94232603200ee0b1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734442461 +0100	pull origin master: Fast-forward
+28865ca13b40044d9d51ed0f94232603200ee0b1 ca9c42871103a60be7dfe755e89292b6a44aad8c Elvariand <95416175+Elvariand@users.noreply.github.com> 1734514632 +0100	commit: landing page + architecture
+ca9c42871103a60be7dfe755e89292b6a44aad8c 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516686 +0100	rebase (finish): refs/heads/JR_FrontPlateform onto 4d492892bfa36403ada8e7c9fc822c6cd4aff687
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 38f1f9271eedad24ef9050acde3e27b74da70d2f Elvariand <95416175+Elvariand@users.noreply.github.com> 1734538125 +0100	commit: Landing Page plateform ok + mapping
+38f1f9271eedad24ef9050acde3e27b74da70d2f 0670dbe66373f35e9858aee9a724b0bdf450b8ce Elvariand <95416175+Elvariand@users.noreply.github.com> 1734562823 +0100	commit: frontpage design V2 wip
+0670dbe66373f35e9858aee9a724b0bdf450b8ce 6248c3684e7494d1c523e5ade85de854c216463e Elvariand <95416175+Elvariand@users.noreply.github.com> 1734619146 +0100	commit: css architecture correction
+6248c3684e7494d1c523e5ade85de854c216463e c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621667 +0100	commit: css theme light wip
+c515b57952fecc81f06e613e6ae228adcccdc9b5 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625843 +0100	commit: theme light and dark done

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@import "../../common/utils.css";
+@import "common/header-amap.css"; 
+@import "common/footer-amap.css";
+.contract-detail-container {
+	display: flex;
+	gap: 40px; /* Espace entre les colonnes */
+}
+
+.contract-image {
+	flex: 2; /* 20% de la largeur totale */
+	text-align: center;
+}
+
+.contract-image img {
+	width: 100%; /* Image responsive */
+	max-height: 300px;
+	object-fit: cover;
+	border-radius: 4px; /* Coins arrondis */
+}
+
+.contract-info {
+	flex: 7; /* 70% de la largeur totale */
+}
+
+.quantity-selector {
+	display: inline-flex;
+	align-items: center;
+	gap: 10px;
+	margin-top: 20px;
+}
+
+.quantity-selector input {
+	width: 50px;
+	text-align: center;
+}

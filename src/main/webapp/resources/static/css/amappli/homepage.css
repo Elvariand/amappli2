@@ -1,0 +1,229 @@
+@import "../common/utils.css";
+
+@import "common/header.css";
+
+@import "common/footer.css";
+
+body {
+	font-family: 'Futura', 'Nunito', 'Inter', Arial, sans-serif;
+	overflow-x: hidden;
+}
+
+body h1 {
+	font-size: calc(1.375rem + 2vw);
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6 {
+	color: var(--main-font-color);
+}
+
+
+
+
+p {
+	font-weight: lighter;
+}
+
+#catchphrase h1 {
+	font-weight: 700;
+}
+
+#catchphrase h2 {
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.underline {
+	border-bottom: 1px solid var(--main-font-color);
+}
+
+.title-holder {
+	width: fit-content;
+}
+	
+.title {
+	font-family:Futura;
+	font-weight:700;
+}
+
+#advantages h5 {
+	font-family: Nunito;
+	font-weight: 700;
+	overflow-y: hidden;
+	color:black;
+}
+
+#advantages p {
+	line-height: normal;
+	font-weight: 300;
+}
+
+#advantages .cardboard {
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.golden-star {
+	max-height: 25px;
+}
+
+#subscriptions {
+	font-family: Nunito;
+}
+
+
+#subscriptions>div>.pricing {
+	--duration: 1s;
+	--ease: cubic-bezier(0.7, 0, 0.3, 1);
+	transition: background-position var(--duration) var(--ease);
+	cursor: pointer;
+}
+
+#subscriptions>div>.pricing h2,
+#subscriptions>div>.pricing h3 {
+	overflow-y: hidden;
+}
+
+.pricing p {
+	font-weight: 400;
+	font-size: 12px;
+}
+
+.partner img {
+	max-height: 50px;
+	object-fit: contain;
+}
+
+.cardboard {
+	overflow: hidden;
+}
+
+.cardboard::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	background: #daeaf2;
+}
+
+/* ---------------------------------- */
+/* SCROLL ANIMATION */
+.cardboard {
+	--duration: 1s;
+	--ease: cubic-bezier(0.7, 0, 0.3, 1);
+	opacity: 0;
+	transition: opacity var(--duration) linear;
+}
+
+.cardboard::before {
+	transform: scaleX(0);
+	transform-origin: top left;
+	transform: scaleX(0);
+	transition: transform var(--duration) var(--ease);
+}
+
+.cardboard p {
+	transition: clip-path var(--duration) var(--ease);
+	transition-delay: var(--duration);
+	clip-path: polygon(0 0, 0 0, 100% 0%, 100% 0%);
+}
+
+.cardboard[data-viewport-position="0"] {
+	opacity: 1;
+}
+
+.cardboard[data-viewport-position="0"]::before {
+	transform: scaleX(1);
+}
+
+.cardboard[data-viewport-position="0"] p {
+	clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 0);
+}
+
+#map {
+	width: 100vw;
+	height: 100vh;
+	/* La carte prend tout l'écran */
+	position: fixed;
+	/* Elle sert de background */
+	top: 0;
+	left: 0;
+	z-index: -1;
+	/* Place la carte derrière le contenu */
+}
+
+#box {
+	width: 60%;
+	height: 200px;
+	background-color: white;
+	border-radius: 20px;
+	margin: auto;
+}
+
+
+ /* Section globale */
+    .amappli-section {
+      padding: 3rem 1.5rem;
+    }
+
+    /* Flexbox pour alignement des colonnes */
+    .row.align-items-stretch {
+      display: flex;
+      align-items: stretch;
+    }
+
+    /* Image responsive */
+    .amappli-image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    /* Colonne texte  */
+    .amappli-text {
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    /* Texte */
+    .amappli-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+    }
+
+    .amappli-description {
+      font-size: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Boutons */
+    .amappli-buttons .btn {
+      margin-right: 1rem;
+    }
+
+    .amappli-buttons .btn:last-child {
+      margin-right: 0;
+    }
+
+    /* Responsive */
+    @media (max-width: 576px) {
+      .row.align-items-stretch {
+        flex-direction: column; /* Colonnes empilées sur mobile */
+      }
+
+      .amappli-text {
+        margin-top: 1rem; 
+      }
+
+      .amappli-buttons .btn {
+        margin-bottom: 1rem;
+        margin-right: 0;
+        width: 100%;
+      }
+    }

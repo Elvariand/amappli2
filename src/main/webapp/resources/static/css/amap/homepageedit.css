@@ -1,0 +1,97 @@
+@charset "UTF-8";
+@import "../common/utils.css";
+
+
+/* Radio buttons */
+input[type="radio"] {
+    visibility: hidden;
+}
+/* Font choices */
+.font-choices {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 0 4px transparent; 
+	border-radius: 0%;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.font-choices h1 {
+    padding: 15px;
+}
+.font-choices:hover h1{
+    box-shadow: 0 0 4px var(--orange-700);
+    transform: scale(1.05);
+}
+
+input[type="radio"]:checked + .font-choices h1 {
+    box-shadow: 0 0 0 4px var(--main-font-color);
+}
+
+/* Palette choices */
+/* General Styling for Palette Choices */
+.palette-choices {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.palette-img {
+    max-width: 100%; /* Prevents overflow */
+    max-height: 80%; 
+    border-radius: 20%;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+/* On Hover */
+.palette-img:hover {
+    box-shadow: 0 0 8px var(--orange-700); /* Hover shadow effect */
+    transform: scale(1.05); /* Slight zoom effect for hover */
+}
+
+/* Styling for Selected Radio Button */
+input[type="radio"]:checked + label .palette-img {
+    box-shadow: 0 0 0 5px var(--green-700); /* Subtle glow for selected item */
+}
+
+/* Ensure No Size Changes */
+input[type="radio"]:checked + label .palette-img,
+.palette-img:hover {
+    border-radius: 20%; /* Maintain border-radius */
+}
+
+.pricing {
+	cursor: pointer;
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transition for box-shadow and scale */
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1); /* Default shadow */
+}
+
+.pricing:hover {
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.2); /* Slightly larger shadow on hover */
+    transform: scale(1.02);
+}
+
+/* Selected state (radio button checked) */
+input[type="radio"]:checked + label .pricing {
+    box-shadow: 0 0 0 8px var(--orange-700); /* Highlighted blue shadow for selection */
+}
+
+.pricing,
+input[type="radio"]:checked + label .pricing {
+    box-sizing: border-box; /* Include border and padding in dimensions */
+}
+
+.pricing h2,
+.pricing h3 {
+	overflow-y: hidden;
+}
+
+.pricing p {
+	font-weight: 400;
+	font-size: 12px;
+}
+
+.pricing-list {
+    position: relative;
+}

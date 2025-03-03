@@ -1,0 +1,61 @@
+ @charset "UTF-8";
+@import "../common/utils.css";
+@import "../front/common/header-amap.jsp";
+@import "../front/common/footer-amap.jsp";
+@import "../common/customform.css";
+
+.form-container {
+    max-width: 600px; /* Largeur maximale du formulaire */
+    margin: 0 auto; /* Centre horizontalement */
+    padding: 30px;
+   
+}
+
+
+h1 {
+	font-size: 1.25rem;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.btn-close {
+	background-color: transparent;
+	border: none;
+	font-size: 1.25rem;
+	color: #333;
+	cursor: pointer;
+}
+
+hr {
+    margin-top: 0; 
+    margin-bottom: 1rem; 
+    border: 0;
+    border-top: 2px solid #f59157;
+    width: 100%; 
+   
+}
+.text-center p {
+    font-size: rgb(255, 128, 64);
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: left
+}
+
+input[type="text"], input[type="email"], input[type="tel"], input[type="password"]
+	{
+	border-radius: 20px;
+	border: 1px solid #ccc;
+	padding: 10px 20px;
+	font-size: 1rem;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus,
+	input[type="password"]:focus {
+	border-color: #007bff;
+	outline: none;
+	box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+
+ 

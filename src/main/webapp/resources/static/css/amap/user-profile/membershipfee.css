@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "../../common/utils.css";
+@import "../common/header-amap.css"; 
+@import "../common/footer-amap.css";
+h5{
+	margin-top:20px;
+}
+
+.title{
+	margin-top:40px;
+	margin-bottom:20px;
+}

@@ -1,0 +1,128 @@
+@charset "UTF-8";
+@import "../../common/utils.css";
+@import "common/header-amap.css";
+@import "common/footer-amap.css";
+
+.contract-card .card-img-top {
+	width: 100%;
+	/* Largeur de l'image */
+	height: 150px;
+	/* Hauteur de l'image */
+	object-fit: cover;
+	/* Garde le ratio tout en remplissant la zone */
+	margin: 0 auto;
+	/* Centrer l'image horizontalement */
+}
+
+.card-title {
+    width: 100%;
+    font-size: clamp(0.8rem, 1.5vw, 1.2rem);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;  
+}
+
+
+.contract-card {
+	position: relative;
+	height: 100%;
+	/* Prend toute la hauteur disponible de la colonne */
+	display: flex;
+	flex-direction: column;
+	/* Aligne le contenu verticalement */
+	justify-content: space-between;
+	/* Équilibre l'espace entre les sections */
+	/* Permet de positionner des éléments enfants relativement à la carte */
+}
+
+.contract-card .btn {
+	position: absolute;
+	/* Positionnement absolu du bouton */
+	bottom: -15px;
+	/* Décale le bouton de 15px en dehors de la carte */
+	left: 50%;
+	/* Centre horizontalement le bouton */
+	transform: translateX(-50%);
+	/* Ajuste le centrage parfait */
+	z-index: 1;
+	/* Fait en sorte que le bouton soit au-dessus de la bordure */
+}
+
+.row {
+	gap: 20px;
+	/* Espace entre les cartes (horizontale et verticale) */
+}
+
+.contract-card {
+	width: 100%;
+	/* Prend toute la largeur de la colonne (28%) */
+	margin: auto;
+	/* Centrage */
+
+	position: relative;
+}
+
+.card-text {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	/* Limite à 2 lignes */
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	/* Masque le texte qui dépasse */
+	text-overflow: ellipsis;
+	/* Ajoute des points de suspension */
+	line-height: 1.25em;
+	/* Hauteur de ligne */
+}
+
+.row .col {
+	display: flex;
+	flex-grow: 1;
+	/* Permet aux colonnes de s'adapter uniformément */
+}
+
+.card {
+	height: 420px;
+	/* Fixe une hauteur uniforme pour toutes les cartes */
+	max-width: 100%;
+	/* Largeur automatique */
+	padding: 5px;
+}
+
+.card-body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+	/* Remplit l'espace restant */
+}
+
+/* Animation au passage de la souris sur une carte */
+.contract-card:hover {
+	transform: scale(1.05);
+	/* Agrandit légèrement la carte */
+	transition: transform 0.3s ease-in-out;
+	/* Animation fluide */
+}
+
+/* Ombre au passage de la souris sur le bouton */
+.contract-card .btn:hover {
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+	/* Ajoute une ombre */
+	transition: box-shadow 0.3s ease-in-out;
+	/* Animation fluide */
+}
+
+/*#sortBy, #searchBar {*/
+/*    max-width: 100%;*/
+/*}*/
+
+/*.search-bar {*/
+/*    padding: 0 15px;*/
+/*}*/
+
+.rounded-top {
+    border-top-left-radius: 15px; /* Exemple : 15px */
+    border-top-right-radius: 15px;
+}
+

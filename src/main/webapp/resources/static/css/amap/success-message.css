@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "../common/utils.css";
+@import "common/header-amap.css";
+@import "common/footer-amap.css";
+
+#successMessage {
+	transition: opacity 0.5s ease;
+}
+
+#successMessage.hidden {
+	opacity: 0;
+}

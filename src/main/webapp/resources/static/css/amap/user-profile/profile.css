@@ -1,0 +1,47 @@
+@charset "UTF-8";
+@import "../../common/utils.css";
+@import "../common/header-amap.css"; 
+@import "../common/footer-amap.css";
+
+
+
+    body {
+        margin: 0;
+       
+    }
+
+    .form-container {
+        max-width: 600px;
+        padding: 50px;
+      
+    }
+
+    .form-control {
+        border-radius: 25px; 
+        padding: 10px 15px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    
+
+    .btn-container {
+        text-align: center; 
+        margin-top: 15px;
+    }
+    
+    
+    .centered-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 600px; /* Ajustez selon vos besoins */
+    width: 100%;
+    padding: 20px;
+   
+}
+    

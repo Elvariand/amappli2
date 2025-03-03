@@ -1,0 +1,256 @@
+0000000000000000000000000000000000000000 a7d4e8e13016ef145c0ca785746bc72d2f04075a Elvariand <95416175+Elvariand@users.noreply.github.com> 1734430951 +0100	commit (initial): project skeleton
+a7d4e8e13016ef145c0ca785746bc72d2f04075a 20baa59473fe559b84f8da428e353813f8a5fb9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734431642 +0100	commit (merge): project skeleton
+20baa59473fe559b84f8da428e353813f8a5fb9d 0000000000000000000000000000000000000000 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734442440 +0100	Branch: renamed refs/heads/master to refs/heads/JR_FrontPlateform
+0000000000000000000000000000000000000000 20baa59473fe559b84f8da428e353813f8a5fb9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734442440 +0100	Branch: renamed refs/heads/master to refs/heads/JR_FrontPlateform
+20baa59473fe559b84f8da428e353813f8a5fb9d 28865ca13b40044d9d51ed0f94232603200ee0b1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734442461 +0100	pull origin master: Fast-forward
+28865ca13b40044d9d51ed0f94232603200ee0b1 ca9c42871103a60be7dfe755e89292b6a44aad8c Elvariand <95416175+Elvariand@users.noreply.github.com> 1734514632 +0100	commit: landing page + architecture
+ca9c42871103a60be7dfe755e89292b6a44aad8c 28865ca13b40044d9d51ed0f94232603200ee0b1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734515287 +0100	checkout: moving from JR_FrontPlateform to master
+28865ca13b40044d9d51ed0f94232603200ee0b1 7078f0444ae2291a18f108485e5673099c6848aa Elvariand <95416175+Elvariand@users.noreply.github.com> 1734515295 +0100	pull: Fast-forward
+7078f0444ae2291a18f108485e5673099c6848aa 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516641 +0100	commit (merge): synchronization second morning
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 ca9c42871103a60be7dfe755e89292b6a44aad8c Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516677 +0100	checkout: moving from master to JR_FrontPlateform
+ca9c42871103a60be7dfe755e89292b6a44aad8c 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516686 +0100	rebase (start): checkout refs/remotes/origin/master
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734516686 +0100	rebase (finish): returning to refs/heads/JR_FrontPlateform
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 38f1f9271eedad24ef9050acde3e27b74da70d2f Elvariand <95416175+Elvariand@users.noreply.github.com> 1734538125 +0100	commit: Landing Page plateform ok + mapping
+38f1f9271eedad24ef9050acde3e27b74da70d2f 0670dbe66373f35e9858aee9a724b0bdf450b8ce Elvariand <95416175+Elvariand@users.noreply.github.com> 1734562823 +0100	commit: frontpage design V2 wip
+0670dbe66373f35e9858aee9a724b0bdf450b8ce 6248c3684e7494d1c523e5ade85de854c216463e Elvariand <95416175+Elvariand@users.noreply.github.com> 1734619146 +0100	commit: css architecture correction
+6248c3684e7494d1c523e5ade85de854c216463e c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621667 +0100	commit: css theme light wip
+c515b57952fecc81f06e613e6ae228adcccdc9b5 4d492892bfa36403ada8e7c9fc822c6cd4aff687 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621697 +0100	checkout: moving from JR_FrontPlateform to master
+4d492892bfa36403ada8e7c9fc822c6cd4aff687 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621723 +0100	merge JR_FrontPlateform: Fast-forward
+c515b57952fecc81f06e613e6ae228adcccdc9b5 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621751 +0100	checkout: moving from master to JR_FrontPlateform
+c515b57952fecc81f06e613e6ae228adcccdc9b5 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621761 +0100	checkout: moving from JR_FrontPlateform to master
+c515b57952fecc81f06e613e6ae228adcccdc9b5 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734621794 +0100	checkout: moving from master to JR_FrontPlateform
+c515b57952fecc81f06e613e6ae228adcccdc9b5 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625843 +0100	commit: theme light and dark done
+b8d81dbb3810b0e133dedcf802f519e58d9808a0 c515b57952fecc81f06e613e6ae228adcccdc9b5 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625863 +0100	checkout: moving from JR_FrontPlateform to master
+c515b57952fecc81f06e613e6ae228adcccdc9b5 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625876 +0100	merge JR_FrontPlateform: Fast-forward
+b8d81dbb3810b0e133dedcf802f519e58d9808a0 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734625899 +0100	checkout: moving from master to JR_FrontPlateform
+b8d81dbb3810b0e133dedcf802f519e58d9808a0 b8d81dbb3810b0e133dedcf802f519e58d9808a0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689711 +0100	checkout: moving from JR_FrontPlateform to master
+b8d81dbb3810b0e133dedcf802f519e58d9808a0 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689743 +0100	pull: Fast-forward
+63831b0922400437221f1a02908330180074d83b 0000000000000000000000000000000000000000 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689834 +0100	Branch: renamed refs/heads/master to refs/heads/JR_AmapAdminCreateUser
+0000000000000000000000000000000000000000 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734689834 +0100	Branch: renamed refs/heads/master to refs/heads/JR_AmapAdminCreateUser
+63831b0922400437221f1a02908330180074d83b 0000000000000000000000000000000000000000 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701644 +0100	Branch: renamed refs/heads/JR_AmapAdminCreateUser to refs/heads/pam_authorization
+0000000000000000000000000000000000000000 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701644 +0100	Branch: renamed refs/heads/JR_AmapAdminCreateUser to refs/heads/pam_authorization
+63831b0922400437221f1a02908330180074d83b 63831b0922400437221f1a02908330180074d83b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701684 +0100	reset: moving to HEAD
+63831b0922400437221f1a02908330180074d83b c467543bef91f3971896951d2084d9049fefd17e Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701690 +0100	pull origin pam_authorization: Fast-forward
+c467543bef91f3971896951d2084d9049fefd17e 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701805 +0100	pull: Merge made by the 'ort' strategy.
+132b34672100286555b36614c3de388fa2c6a981 0000000000000000000000000000000000000000 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701856 +0100	Branch: renamed refs/heads/pam_authorization to refs/heads/JR_AmapAdminCreateUser
+0000000000000000000000000000000000000000 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734701856 +0100	Branch: renamed refs/heads/pam_authorization to refs/heads/JR_AmapAdminCreateUser
+132b34672100286555b36614c3de388fa2c6a981 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702050 +0100	checkout: moving from JR_AmapAdminCreateUser to pam_authorization
+132b34672100286555b36614c3de388fa2c6a981 bcfa396e21e2ec318daa3143503661e5583439f3 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702087 +0100	pull origin pam_authorization: Merge made by the 'ort' strategy.
+bcfa396e21e2ec318daa3143503661e5583439f3 132b34672100286555b36614c3de388fa2c6a981 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702169 +0100	checkout: moving from pam_authorization to JR_AmapAdminCreateUser
+132b34672100286555b36614c3de388fa2c6a981 bcfa396e21e2ec318daa3143503661e5583439f3 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702185 +0100	merge pam_authorization: Fast-forward
+bcfa396e21e2ec318daa3143503661e5583439f3 20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734702235 +0100	commit: fixed userservice
+20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d 20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709437 +0100	reset: moving to HEAD
+20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d 92fa4bece8fd83ffdec3777696b658791ef99deb Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709444 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+92fa4bece8fd83ffdec3777696b658791ef99deb 92fa4bece8fd83ffdec3777696b658791ef99deb Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709532 +0100	checkout: moving from master to main_wip
+92fa4bece8fd83ffdec3777696b658791ef99deb 92fa4bece8fd83ffdec3777696b658791ef99deb Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709756 +0100	checkout: moving from main_wip to master
+92fa4bece8fd83ffdec3777696b658791ef99deb 06f5a182e28a58198c8e8c6c8543fd8bd9a737d2 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709762 +0100	pull: Fast-forward
+06f5a182e28a58198c8e8c6c8543fd8bd9a737d2 258ea529e51080c5961ad9cac79f37ad90f26c6b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709803 +0100	merge JR_AmapAdminCreateUser: Merge made by the 'ort' strategy.
+258ea529e51080c5961ad9cac79f37ad90f26c6b 687c610059aeaf5e23232dae50ee9c14de37f769 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709903 +0100	commit: merge css architecture
+687c610059aeaf5e23232dae50ee9c14de37f769 4ddfcfc1d2d8638c7e3bb59046148a0028172caf Elvariand <95416175+Elvariand@users.noreply.github.com> 1734710966 +0100	pull: Fast-forward
+4ddfcfc1d2d8638c7e3bb59046148a0028172caf 4ddfcfc1d2d8638c7e3bb59046148a0028172caf Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897533 +0100	reset: moving to HEAD
+4ddfcfc1d2d8638c7e3bb59046148a0028172caf 20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897559 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+20cd65ff1988cf7b11bf0d995f7cfc5c5a4bb63d 4830874f6de9f819b8efe845e0a6793ba261dca1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897650 +0100	commit: kinda rebase
+4830874f6de9f819b8efe845e0a6793ba261dca1 317155dfb3e3f7e9b923a282ed0a3a91a0ed3e18 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734897779 +0100	commit (merge): fix conflict
+317155dfb3e3f7e9b923a282ed0a3a91a0ed3e18 b7994fc847acced375d410f125aac44975ee38e7 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735295279 +0100	commit: almost done for with spring and validation to modify
+b7994fc847acced375d410f125aac44975ee38e7 4ddfcfc1d2d8638c7e3bb59046148a0028172caf Elvariand <95416175+Elvariand@users.noreply.github.com> 1735296672 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+4ddfcfc1d2d8638c7e3bb59046148a0028172caf b71cd4014020696c7985221ac9f43fbc15ee2980 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735296775 +0100	pull: Fast-forward
+b71cd4014020696c7985221ac9f43fbc15ee2980 412e9b7c20c419e0398c49c682c61dc41b091886 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735298899 +0100	commit (merge): rework files architectures
+412e9b7c20c419e0398c49c682c61dc41b091886 412e9b7c20c419e0398c49c682c61dc41b091886 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299476 +0100	reset: moving to HEAD
+412e9b7c20c419e0398c49c682c61dc41b091886 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299481 +0100	pull: Fast-forward
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 b7994fc847acced375d410f125aac44975ee38e7 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299512 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+b7994fc847acced375d410f125aac44975ee38e7 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299542 +0100	pull: Fast-forward
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735300095 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735300780 +0100	reset: moving to HEAD
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 a490780668fcef73307347ae4a215cc9a43f53da Elvariand <95416175+Elvariand@users.noreply.github.com> 1735300785 +0100	pull: Fast-forward
+a490780668fcef73307347ae4a215cc9a43f53da 20e8d7673425b1ebc9b72da48ec320e294dd1d77 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735301427 +0100	pull: Fast-forward
+20e8d7673425b1ebc9b72da48ec320e294dd1d77 f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735307583 +0100	pull: Fast-forward
+f15594ead3cc6565d612af0049a000759b551a58 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735307967 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735307975 +0100	pull: Fast-forward
+f15594ead3cc6565d612af0049a000759b551a58 f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310538 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+f15594ead3cc6565d612af0049a000759b551a58 c7d31e664eac5d708431e9674f80ef5bcabb308e Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310544 +0100	pull: Fast-forward
+c7d31e664eac5d708431e9674f80ef5bcabb308e f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310559 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+f15594ead3cc6565d612af0049a000759b551a58 c7d31e664eac5d708431e9674f80ef5bcabb308e Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310564 +0100	pull: Fast-forward
+c7d31e664eac5d708431e9674f80ef5bcabb308e 915e17e9454cf62ed05771d27d1c23c45ac017b0 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310703 +0100	commit: update tenancyService
+915e17e9454cf62ed05771d27d1c23c45ac017b0 79ed2f8a8369a1fa2ae9f27c21d703226fb85e9d Elvariand <95416175+Elvariand@users.noreply.github.com> 1735313816 +0100	commit: update routing
+79ed2f8a8369a1fa2ae9f27c21d703226fb85e9d f5397515a7d928e2f25db0630c6f92e7a0013d23 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735394529 +0100	commit: update form to springForm wip
+f5397515a7d928e2f25db0630c6f92e7a0013d23 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735572605 +0100	commit: sidebar admin and header admin
+9b5b092e721f3e933dd97163d38fe4bdc5078603 c7d31e664eac5d708431e9674f80ef5bcabb308e Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574379 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+c7d31e664eac5d708431e9674f80ef5bcabb308e 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574388 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+9b5b092e721f3e933dd97163d38fe4bdc5078603 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574402 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+9b5b092e721f3e933dd97163d38fe4bdc5078603 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574410 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+9b5b092e721f3e933dd97163d38fe4bdc5078603 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574419 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+9b5b092e721f3e933dd97163d38fe4bdc5078603 4de898ac1d918205026390c543b7b8c1b49ec9d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735829250 +0100	commit: css backoffice amap WIP
+4de898ac1d918205026390c543b7b8c1b49ec9d9 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735829407 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+9b5b092e721f3e933dd97163d38fe4bdc5078603 4de898ac1d918205026390c543b7b8c1b49ec9d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735829436 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+4de898ac1d918205026390c543b7b8c1b49ec9d9 a0a88debfaa76417decacf7a2dba96ddf06c6c9f Elvariand <95416175+Elvariand@users.noreply.github.com> 1735893491 +0100	pull: Fast-forward
+a0a88debfaa76417decacf7a2dba96ddf06c6c9f 4de898ac1d918205026390c543b7b8c1b49ec9d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735893513 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+4de898ac1d918205026390c543b7b8c1b49ec9d9 a0a88debfaa76417decacf7a2dba96ddf06c6c9f Elvariand <95416175+Elvariand@users.noreply.github.com> 1735893521 +0100	pull: Fast-forward
+a0a88debfaa76417decacf7a2dba96ddf06c6c9f c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894352 +0100	commit: fonts.css
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc a0a88debfaa76417decacf7a2dba96ddf06c6c9f Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894472 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+a0a88debfaa76417decacf7a2dba96ddf06c6c9f c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894576 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894585 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894625 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894640 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735922420 +0100	commit: update CSS
+97450752e6f94dfb487a189de3becfe12bbdc918 c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735931313 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735931322 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+97450752e6f94dfb487a189de3becfe12bbdc918 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735931337 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+97450752e6f94dfb487a189de3becfe12bbdc918 61a429da419bf647ce3eb4cb61c95863b85444d4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736011055 +0100	commit: css user-list complete
+61a429da419bf647ce3eb4cb61c95863b85444d4 342a673bb478eb4b5a1f69c99f80314280d8eb68 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736039071 +0100	commit: update form user need to pass validation
+342a673bb478eb4b5a1f69c99f80314280d8eb68 d62436b3a1662acf9117e37521f35f3b5c3802ec Elvariand <95416175+Elvariand@users.noreply.github.com> 1736075648 +0100	commit: user-details form back and front ok
+d62436b3a1662acf9117e37521f35f3b5c3802ec 292536e4ce9d2958a8d8e3d9e93bc80fc65a9884 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736113681 +0100	commit: added verification client side
+292536e4ce9d2958a8d8e3d9e93bc80fc65a9884 46783c50360cdeb317d13db7125accf5d97181a2 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157224 +0100	commit: finally over
+46783c50360cdeb317d13db7125accf5d97181a2 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157353 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+97450752e6f94dfb487a189de3becfe12bbdc918 79e84db3576519788b35ca56be94da4d02b7695f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157364 +0100	pull: Fast-forward
+79e84db3576519788b35ca56be94da4d02b7695f 46783c50360cdeb317d13db7125accf5d97181a2 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157375 +0100	checkout: moving from master to JR_AmapAdminCreateUser
+46783c50360cdeb317d13db7125accf5d97181a2 b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157808 +0100	commit (merge): merge conflict fix
+b6f6814520869af6503e9fdcc385b8f3ab413e84 79e84db3576519788b35ca56be94da4d02b7695f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157830 +0100	checkout: moving from JR_AmapAdminCreateUser to master
+79e84db3576519788b35ca56be94da4d02b7695f b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157847 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+b6f6814520869af6503e9fdcc385b8f3ab413e84 b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736158902 +0100	checkout: moving from master to JR_RolesInit
+b6f6814520869af6503e9fdcc385b8f3ab413e84 c0f9ebca301271b3b269c6d286d120fef724d572 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174051 +0100	commit: update init with roles
+c0f9ebca301271b3b269c6d286d120fef724d572 b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174077 +0100	checkout: moving from JR_RolesInit to master
+b6f6814520869af6503e9fdcc385b8f3ab413e84 b278b3ae5db6e1fb0434dbd3568149995aad09d3 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174083 +0100	pull: Merge made by the 'ort' strategy.
+b278b3ae5db6e1fb0434dbd3568149995aad09d3 b43fe5c984f702983ac50e5b47052814e086e1a9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174134 +0100	merge JR_RolesInit: Merge made by the 'ort' strategy.
+b43fe5c984f702983ac50e5b47052814e086e1a9 c0f9ebca301271b3b269c6d286d120fef724d572 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736175756 +0100	checkout: moving from master to JR_RolesInit
+c0f9ebca301271b3b269c6d286d120fef724d572 ab6ace9d30f774ac414065813d58fb9907fa46db Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196452 +0100	commit: init with roles and options + linked IDs in address ContactInfos and Company NAmes
+ab6ace9d30f774ac414065813d58fb9907fa46db b43fe5c984f702983ac50e5b47052814e086e1a9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196503 +0100	checkout: moving from JR_RolesInit to master
+b43fe5c984f702983ac50e5b47052814e086e1a9 79063670d76cd0aab7227baf055c43c4bf3ab880 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196509 +0100	pull: Fast-forward
+79063670d76cd0aab7227baf055c43c4bf3ab880 ae06367db6d5a71e5d51783922bd356781d34dcc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196798 +0100	commit (merge): fixing conflict
+ae06367db6d5a71e5d51783922bd356781d34dcc ae06367db6d5a71e5d51783922bd356781d34dcc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736199843 +0100	reset: moving to HEAD
+ae06367db6d5a71e5d51783922bd356781d34dcc ae06367db6d5a71e5d51783922bd356781d34dcc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736199869 +0100	checkout: moving from master to JR_ResponsiveHeader
+ae06367db6d5a71e5d51783922bd356781d34dcc 010f77dea18394d56383d86c020311dca55defad Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201599 +0100	commit: header and footer amap responsive
+010f77dea18394d56383d86c020311dca55defad ae06367db6d5a71e5d51783922bd356781d34dcc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201636 +0100	checkout: moving from JR_ResponsiveHeader to master
+ae06367db6d5a71e5d51783922bd356781d34dcc 90e08c4fa2c2b72668e8d8163ca7fd0f3902b49c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201641 +0100	pull: Fast-forward
+90e08c4fa2c2b72668e8d8163ca7fd0f3902b49c ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201663 +0100	merge JR_ResponsiveHeader: Merge made by the 'ort' strategy.
+ed351226bfd62f500a2169b424b009abefdadc7e ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736235729 +0100	reset: moving to HEAD
+ed351226bfd62f500a2169b424b009abefdadc7e ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736235742 +0100	checkout: moving from master to JR_routing
+ed351226bfd62f500a2169b424b009abefdadc7e ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238187 +0100	checkout: moving from JR_routing to master
+ed351226bfd62f500a2169b424b009abefdadc7e ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238197 +0100	checkout: moving from master to JR_routing
+ed351226bfd62f500a2169b424b009abefdadc7e 48694030f641357013f1760a19aa653566202de9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238214 +0100	commit: css wip
+48694030f641357013f1760a19aa653566202de9 ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238258 +0100	checkout: moving from JR_routing to master
+ed351226bfd62f500a2169b424b009abefdadc7e a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238266 +0100	pull: Fast-forward
+a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 48694030f641357013f1760a19aa653566202de9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238276 +0100	checkout: moving from master to JR_routing
+48694030f641357013f1760a19aa653566202de9 626b2690b8fa8d31e71c9af740437aa4b2b0e0bb Elvariand <95416175+Elvariand@users.noreply.github.com> 1736247444 +0100	commit: aboutPage responsive
+626b2690b8fa8d31e71c9af740437aa4b2b0e0bb 626b2690b8fa8d31e71c9af740437aa4b2b0e0bb Elvariand <95416175+Elvariand@users.noreply.github.com> 1736254511 +0100	reset: moving to HEAD
+626b2690b8fa8d31e71c9af740437aa4b2b0e0bb a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736254517 +0100	checkout: moving from JR_routing to master
+a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf Elvariand <95416175+Elvariand@users.noreply.github.com> 1736254523 +0100	pull: Fast-forward
+e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf 626b2690b8fa8d31e71c9af740437aa4b2b0e0bb Elvariand <95416175+Elvariand@users.noreply.github.com> 1736254552 +0100	checkout: moving from master to JR_routing
+626b2690b8fa8d31e71c9af740437aa4b2b0e0bb b010f54b54b665d7649b240bdafc012872e93f56 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736258506 +0100	commit: fix init user
+b010f54b54b665d7649b240bdafc012872e93f56 887d857227fb7171a9b8c2012323f1a6feccead4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736259435 +0100	commit: fix init user and routing in jsp
+887d857227fb7171a9b8c2012323f1a6feccead4 cf226309690d869f77df81c72a20bf6b19a0269d Elvariand <95416175+Elvariand@users.noreply.github.com> 1736261304 +0100	commit: contract-list admin is now responsive
+cf226309690d869f77df81c72a20bf6b19a0269d 85ac73696cefe53693bfd20b0bbe5729234319ed Elvariand <95416175+Elvariand@users.noreply.github.com> 1736265635 +0100	commit: update layout all admin amap lists
+85ac73696cefe53693bfd20b0bbe5729234319ed dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736268894 +0100	commit: header and sidebar admin amap css updated
+dd338304c9f5ccaa3b404b91426230b607458be1 e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf Elvariand <95416175+Elvariand@users.noreply.github.com> 1736268947 +0100	checkout: moving from JR_routing to master
+e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf 3358fde9d0b1fdbec7686c5b20c734e3d9e1a0cc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736268954 +0100	pull: Fast-forward
+3358fde9d0b1fdbec7686c5b20c734e3d9e1a0cc 4eacd02ce2a8709ea2abb3aebcf0164df02bb51f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736270493 +0100	commit (merge): fixing clonflict
+4eacd02ce2a8709ea2abb3aebcf0164df02bb51f dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736270524 +0100	checkout: moving from master to JR_routing
+dd338304c9f5ccaa3b404b91426230b607458be1 dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736271692 +0100	reset: moving to HEAD
+dd338304c9f5ccaa3b404b91426230b607458be1 4eacd02ce2a8709ea2abb3aebcf0164df02bb51f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736271714 +0100	checkout: moving from JR_routing to master
+4eacd02ce2a8709ea2abb3aebcf0164df02bb51f 3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736271726 +0100	pull: Fast-forward
+3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736271750 +0100	checkout: moving from master to JR_routing
+dd338304c9f5ccaa3b404b91426230b607458be1 3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736281768 +0100	checkout: moving from JR_routing to master
+3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736281773 +0100	pull: Fast-forward
+82c9e54f63e836aca0559b7eaf65ca99c686207a dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736281871 +0100	checkout: moving from master to JR_routing
+dd338304c9f5ccaa3b404b91426230b607458be1 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736282247 +0100	rebase (start): checkout master
+82c9e54f63e836aca0559b7eaf65ca99c686207a 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736282247 +0100	rebase (finish): returning to refs/heads/JR_routing
+82c9e54f63e836aca0559b7eaf65ca99c686207a 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736283983 +0100	checkout: moving from JR_routing to master
+82c9e54f63e836aca0559b7eaf65ca99c686207a ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736283989 +0100	pull: Fast-forward
+ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284000 +0100	checkout: moving from master to JR_routing
+82c9e54f63e836aca0559b7eaf65ca99c686207a 59196cbfea0d0d9e8ff4cce67df2a1327292ca11 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284056 +0100	commit: sidebar with orders
+59196cbfea0d0d9e8ff4cce67df2a1327292ca11 ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284064 +0100	rebase (start): checkout master
+ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c 06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284064 +0100	rebase (pick): sidebar with orders
+06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284064 +0100	rebase (finish): returning to refs/heads/JR_routing
+06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 1f60c4fb11196a8099cea13a270b617ddd282aef Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336054 +0100	commit: fix null pointer exception lists admin
+1f60c4fb11196a8099cea13a270b617ddd282aef ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336129 +0100	checkout: moving from JR_routing to master
+ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c d58c8f8e6a6157300c38a281868b69bd2584741b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336137 +0100	pull: Fast-forward
+d58c8f8e6a6157300c38a281868b69bd2584741b 1f60c4fb11196a8099cea13a270b617ddd282aef Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336153 +0100	checkout: moving from master to JR_routing
+1f60c4fb11196a8099cea13a270b617ddd282aef d58c8f8e6a6157300c38a281868b69bd2584741b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336164 +0100	rebase (start): checkout master
+d58c8f8e6a6157300c38a281868b69bd2584741b 5fe221b79e1380ea6c549dde98d151fcfad53133 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336394 +0100	rebase (continue): sidebar with orders
+5fe221b79e1380ea6c549dde98d151fcfad53133 fadb022f08c2f89ffc85044ec3c88429aa741510 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336635 +0100	rebase (continue): fix null pointer exception lists admin
+fadb022f08c2f89ffc85044ec3c88429aa741510 fadb022f08c2f89ffc85044ec3c88429aa741510 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336642 +0100	rebase (finish): returning to refs/heads/JR_routing
+fadb022f08c2f89ffc85044ec3c88429aa741510 fadb022f08c2f89ffc85044ec3c88429aa741510 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336710 +0100	reset: moving to HEAD
+fadb022f08c2f89ffc85044ec3c88429aa741510 cb35ad4841a01b4675ea4dd565bebd6ca3540d79 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336899 +0100	commit (merge): fix rebase
+cb35ad4841a01b4675ea4dd565bebd6ca3540d79 cb35ad4841a01b4675ea4dd565bebd6ca3540d79 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346514 +0100	reset: moving to HEAD
+cb35ad4841a01b4675ea4dd565bebd6ca3540d79 d58c8f8e6a6157300c38a281868b69bd2584741b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346521 +0100	checkout: moving from JR_routing to master
+d58c8f8e6a6157300c38a281868b69bd2584741b e33deb14dc3029fb50667dbcaede6b8424f34f85 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346526 +0100	pull: Fast-forward
+e33deb14dc3029fb50667dbcaede6b8424f34f85 cb35ad4841a01b4675ea4dd565bebd6ca3540d79 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346541 +0100	checkout: moving from master to JR_routing
+cb35ad4841a01b4675ea4dd565bebd6ca3540d79 e33deb14dc3029fb50667dbcaede6b8424f34f85 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346547 +0100	rebase (start): checkout master
+e33deb14dc3029fb50667dbcaede6b8424f34f85 3679afccee8d27269a9773ae18bdbcdd2aa7dd5d Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346547 +0100	rebase (pick): sidebar with orders
+3679afccee8d27269a9773ae18bdbcdd2aa7dd5d 366470876a551780a4a32a126e43fb04c2ab2ffe Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346623 +0100	rebase (continue): fix null pointer exception lists admin
+366470876a551780a4a32a126e43fb04c2ab2ffe fbf93ac5a185a3d71f1c2f6ea066cc251514a793 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346786 +0100	rebase (continue): sidebar with orders
+fbf93ac5a185a3d71f1c2f6ea066cc251514a793 fbf93ac5a185a3d71f1c2f6ea066cc251514a793 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346959 +0100	rebase (finish): returning to refs/heads/JR_routing
+fbf93ac5a185a3d71f1c2f6ea066cc251514a793 20b7c1a35de73b60f428aa5be234d7f751aa04be Elvariand <95416175+Elvariand@users.noreply.github.com> 1736347133 +0100	commit: fix rebase
+20b7c1a35de73b60f428aa5be234d7f751aa04be 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736347335 +0100	commit (merge): fix divergence
+48bd80f3f4d6e2dfe6510a1883fefb7014badc6e e33deb14dc3029fb50667dbcaede6b8424f34f85 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736347384 +0100	checkout: moving from JR_routing to master
+e33deb14dc3029fb50667dbcaede6b8424f34f85 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736348349 +0100	merge JR_routing: Fast-forward
+48bd80f3f4d6e2dfe6510a1883fefb7014badc6e 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736348398 +0100	checkout: moving from master to JR_navigations
+48bd80f3f4d6e2dfe6510a1883fefb7014badc6e 5b7a7bd9a64e991c2f961fcfe7115b74246157e1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369155 +0100	commit: lot of minor fixes everywhere
+5b7a7bd9a64e991c2f961fcfe7115b74246157e1 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369207 +0100	checkout: moving from JR_navigations to master
+48bd80f3f4d6e2dfe6510a1883fefb7014badc6e d7989d0daa0a162f25ca29bdc58645c5a802238a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369374 +0100	commit (merge): merge fix
+d7989d0daa0a162f25ca29bdc58645c5a802238a f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369639 +0100	commit (merge): merging fix left details
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b 5b7a7bd9a64e991c2f961fcfe7115b74246157e1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369669 +0100	checkout: moving from master to JR_navigations
+5b7a7bd9a64e991c2f961fcfe7115b74246157e1 f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369684 +0100	checkout: moving from JR_navigations to master
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369726 +0100	checkout: moving from master to JR_finalRush
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371092 +0100	checkout: moving from JR_finalRush to master
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371109 +0100	reset: moving to HEAD
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b 763bbce16f75f4096af31d05808676da944cadfa Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371115 +0100	pull: Fast-forward
+763bbce16f75f4096af31d05808676da944cadfa f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371146 +0100	checkout: moving from master to JR_finalRush
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b 763bbce16f75f4096af31d05808676da944cadfa Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371281 +0100	rebase (start): checkout master
+763bbce16f75f4096af31d05808676da944cadfa 763bbce16f75f4096af31d05808676da944cadfa Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371281 +0100	rebase (finish): returning to refs/heads/JR_finalRush
+763bbce16f75f4096af31d05808676da944cadfa 149f5f1846ecac0fcc1255d25b84e2041e856ffe Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387092 +0100	commit: cleaning and brushing
+149f5f1846ecac0fcc1255d25b84e2041e856ffe 763bbce16f75f4096af31d05808676da944cadfa Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387186 +0100	checkout: moving from JR_finalRush to master
+763bbce16f75f4096af31d05808676da944cadfa cdd78ad66dd43e743c84d3ca6d3bbf1d30ba7a77 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387192 +0100	pull: Fast-forward
+cdd78ad66dd43e743c84d3ca6d3bbf1d30ba7a77 748b1ff64923a9633bdc5ac5167854016c61e010 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387363 +0100	commit (merge): fix merge
+748b1ff64923a9633bdc5ac5167854016c61e010 149f5f1846ecac0fcc1255d25b84e2041e856ffe Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387498 +0100	checkout: moving from master to JR_finalRush
+149f5f1846ecac0fcc1255d25b84e2041e856ffe 748b1ff64923a9633bdc5ac5167854016c61e010 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387516 +0100	rebase (start): checkout master
+748b1ff64923a9633bdc5ac5167854016c61e010 748b1ff64923a9633bdc5ac5167854016c61e010 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387516 +0100	rebase (finish): returning to refs/heads/JR_finalRush
+748b1ff64923a9633bdc5ac5167854016c61e010 748b1ff64923a9633bdc5ac5167854016c61e010 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736409815 +0100	checkout: moving from JR_finalRush to master
+748b1ff64923a9633bdc5ac5167854016c61e010 7a0dbe9cd3609d546905179ed26474b41f6c773c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736409829 +0100	pull: Fast-forward
+7a0dbe9cd3609d546905179ed26474b41f6c773c 7a0dbe9cd3609d546905179ed26474b41f6c773c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736413795 +0100	reset: moving to HEAD
+7a0dbe9cd3609d546905179ed26474b41f6c773c 62051cabafc22fcaa653b86f03cbcfa118821711 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736413806 +0100	pull: Fast-forward
+62051cabafc22fcaa653b86f03cbcfa118821711 aeaf6354b1d3216129395c17201ff4c75d0543a6 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736413975 +0100	commit: add 403 page (only front)
+aeaf6354b1d3216129395c17201ff4c75d0543a6 aeaf6354b1d3216129395c17201ff4c75d0543a6 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736414348 +0100	checkout: moving from master to JR_autofill
+aeaf6354b1d3216129395c17201ff4c75d0543a6 f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417174 +0100	commit: autofill test ok
+f0830f6e5d1a75639135aa70c412f19f1a33d80c aeaf6354b1d3216129395c17201ff4c75d0543a6 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417198 +0100	checkout: moving from JR_autofill to master
+aeaf6354b1d3216129395c17201ff4c75d0543a6 f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417207 +0100	merge JR_autofill: Fast-forward
+f0830f6e5d1a75639135aa70c412f19f1a33d80c 6099ed977f5707ae0f33e1756571317beebc3342 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417219 +0100	pull: Merge made by the 'ort' strategy.
+6099ed977f5707ae0f33e1756571317beebc3342 6099ed977f5707ae0f33e1756571317beebc3342 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736433289 +0100	reset: moving to HEAD
+6099ed977f5707ae0f33e1756571317beebc3342 f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736433305 +0100	checkout: moving from master to JR_autofill
+f0830f6e5d1a75639135aa70c412f19f1a33d80c f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434071 +0100	reset: moving to HEAD
+f0830f6e5d1a75639135aa70c412f19f1a33d80c 6099ed977f5707ae0f33e1756571317beebc3342 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434077 +0100	checkout: moving from JR_autofill to master
+6099ed977f5707ae0f33e1756571317beebc3342 7952a2e66bc15974e6df7790c0202943017f3ed9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434082 +0100	pull: Fast-forward
+7952a2e66bc15974e6df7790c0202943017f3ed9 f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434156 +0100	checkout: moving from master to JR_autofill
+f0830f6e5d1a75639135aa70c412f19f1a33d80c 7952a2e66bc15974e6df7790c0202943017f3ed9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434175 +0100	rebase (start): checkout master
+7952a2e66bc15974e6df7790c0202943017f3ed9 7952a2e66bc15974e6df7790c0202943017f3ed9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434175 +0100	rebase (finish): returning to refs/heads/JR_autofill
+7952a2e66bc15974e6df7790c0202943017f3ed9 aca260be759c41f50ecb96484dc6de16707e5169 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736438417 +0100	commit: multiple fixes
+aca260be759c41f50ecb96484dc6de16707e5169 1637de432de050a1043cb2d07289684f4b3286f7 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736450993 +0100	commit: minor fixes
+1637de432de050a1043cb2d07289684f4b3286f7 1d443b574d7f6ac242fcc3f1567846e2cbe0c772 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459745 +0100	commit: autofill wip
+1d443b574d7f6ac242fcc3f1567846e2cbe0c772 7952a2e66bc15974e6df7790c0202943017f3ed9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459758 +0100	checkout: moving from JR_autofill to master
+7952a2e66bc15974e6df7790c0202943017f3ed9 6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459765 +0100	pull: Fast-forward
+6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 1d443b574d7f6ac242fcc3f1567846e2cbe0c772 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459789 +0100	checkout: moving from master to JR_autofill
+1d443b574d7f6ac242fcc3f1567846e2cbe0c772 6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459795 +0100	rebase (start): checkout master
+6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 cfc0607f309661b0b35196ec83b442a10fbfe466 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460098 +0100	rebase (continue): multiple fixes
+cfc0607f309661b0b35196ec83b442a10fbfe466 233eb384d3c6c2b2ecb1d52780d4d390b26000a7 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460198 +0100	rebase (continue): minor fixes
+233eb384d3c6c2b2ecb1d52780d4d390b26000a7 fbf210c54d501c09aba5ee7a58935bf3fcc32a11 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460204 +0100	rebase (pick): autofill wip
+fbf210c54d501c09aba5ee7a58935bf3fcc32a11 fbf210c54d501c09aba5ee7a58935bf3fcc32a11 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460204 +0100	rebase (finish): returning to refs/heads/JR_autofill
+fbf210c54d501c09aba5ee7a58935bf3fcc32a11 3b067378a100d9746fa1bfbf4b7c4c9d470a6a46 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460384 +0100	commit (merge): fix conflict
+3b067378a100d9746fa1bfbf4b7c4c9d470a6a46 6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460429 +0100	checkout: moving from JR_autofill to master
+6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 9edbd7aeb64bbdad58bfbc3576f27d695c71a62c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460435 +0100	pull: Fast-forward
+9edbd7aeb64bbdad58bfbc3576f27d695c71a62c 3b067378a100d9746fa1bfbf4b7c4c9d470a6a46 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460450 +0100	checkout: moving from master to JR_autofill
+3b067378a100d9746fa1bfbf4b7c4c9d470a6a46 9edbd7aeb64bbdad58bfbc3576f27d695c71a62c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460455 +0100	rebase (start): checkout master
+9edbd7aeb64bbdad58bfbc3576f27d695c71a62c cc6b1bb631a3b66f5dc589075f035372b177bb7f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460456 +0100	rebase (pick): multiple fixes
+cc6b1bb631a3b66f5dc589075f035372b177bb7f 7804615a6f4a4952b3592fbb9ea7967fc51b8c06 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460569 +0100	rebase (continue): minor fixes
+7804615a6f4a4952b3592fbb9ea7967fc51b8c06 fadf202fdf4e17461caf71e2f444eb129734328f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460577 +0100	rebase (pick): autofill wip
+fadf202fdf4e17461caf71e2f444eb129734328f fadf202fdf4e17461caf71e2f444eb129734328f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460708 +0100	rebase (finish): returning to refs/heads/JR_autofill
+fadf202fdf4e17461caf71e2f444eb129734328f 1178e5a52ebb2cf4b0c620eb12b0c692d98308d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460798 +0100	commit (merge): conflict
+1178e5a52ebb2cf4b0c620eb12b0c692d98308d9 692fadcbf5a36e8903f501a318c2c9683ab2494b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736465054 +0100	commit: progress and fixes
+692fadcbf5a36e8903f501a318c2c9683ab2494b 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470898 +0100	commit: autofill update
+02895c248a78eee7726eb54e9455e4bada98c7c8 9edbd7aeb64bbdad58bfbc3576f27d695c71a62c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470910 +0100	checkout: moving from JR_autofill to master
+9edbd7aeb64bbdad58bfbc3576f27d695c71a62c 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470925 +0100	merge JR_autofill: Fast-forward
+02895c248a78eee7726eb54e9455e4bada98c7c8 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470945 +0100	checkout: moving from master to JR_autofill
+02895c248a78eee7726eb54e9455e4bada98c7c8 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470971 +0100	checkout: moving from JR_autofill to master
+02895c248a78eee7726eb54e9455e4bada98c7c8 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736471021 +0100	checkout: moving from master to JR_autofill
+02895c248a78eee7726eb54e9455e4bada98c7c8 3081b9954b65d6249825b59e3bd4ae9994e3ef43 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504960 +0100	commit: autofill done
+3081b9954b65d6249825b59e3bd4ae9994e3ef43 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504980 +0100	checkout: moving from JR_autofill to master
+02895c248a78eee7726eb54e9455e4bada98c7c8 f0f6bd4ed956225cb5a3d0c8059d0fb147607f64 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504985 +0100	pull: Fast-forward
+f0f6bd4ed956225cb5a3d0c8059d0fb147607f64 4e983a616372449e0b44b85652b6bebcfa8e438c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504994 +0100	merge JR_autofill: Merge made by the 'ort' strategy.

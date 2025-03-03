@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence
+            https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" version="3.0">
+    <persistence-unit name="amappli">
+        <properties>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://amappli-instance.cxmiwmu4yy7z.eu-north-1.rds.amazonaws.com:3306/amappli?serverTimezone=UTC" />
+            <property name="jakarta.persistence.jdbc.user" value="admin" />
+            <property name="jakarta.persistence.jdbc.password" value="amappliROOT" />
+            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+            <property name="hibernate.show_sql" value="true" />
+            <property name="hibernate.format_sql" value="true" />
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>

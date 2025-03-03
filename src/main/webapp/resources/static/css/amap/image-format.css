@@ -1,0 +1,11 @@
+.image-preview {
+	width: 150px; /* Taille fixe */
+	height: 150px; /* Taille fixe */
+	object-fit: cover;
+	/* Recadre l'image pour remplir la zone tout en respectant le ratio d'aspect */
+	border-radius: 8px; /* Facultatif : pour un effet arrondi */
+	border: 1px solid #ddd; /* Facultatif : pour une bordure légère */
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	max-width: 100%;
+	border-radius: 20px;
+}

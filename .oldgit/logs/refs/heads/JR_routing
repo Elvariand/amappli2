@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736235742 +0100	branch: Created from HEAD
+ed351226bfd62f500a2169b424b009abefdadc7e 48694030f641357013f1760a19aa653566202de9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238214 +0100	commit: css wip
+48694030f641357013f1760a19aa653566202de9 626b2690b8fa8d31e71c9af740437aa4b2b0e0bb Elvariand <95416175+Elvariand@users.noreply.github.com> 1736247444 +0100	commit: aboutPage responsive
+626b2690b8fa8d31e71c9af740437aa4b2b0e0bb b010f54b54b665d7649b240bdafc012872e93f56 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736258506 +0100	commit: fix init user
+b010f54b54b665d7649b240bdafc012872e93f56 887d857227fb7171a9b8c2012323f1a6feccead4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736259435 +0100	commit: fix init user and routing in jsp
+887d857227fb7171a9b8c2012323f1a6feccead4 cf226309690d869f77df81c72a20bf6b19a0269d Elvariand <95416175+Elvariand@users.noreply.github.com> 1736261304 +0100	commit: contract-list admin is now responsive
+cf226309690d869f77df81c72a20bf6b19a0269d 85ac73696cefe53693bfd20b0bbe5729234319ed Elvariand <95416175+Elvariand@users.noreply.github.com> 1736265635 +0100	commit: update layout all admin amap lists
+85ac73696cefe53693bfd20b0bbe5729234319ed dd338304c9f5ccaa3b404b91426230b607458be1 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736268894 +0100	commit: header and sidebar admin amap css updated
+dd338304c9f5ccaa3b404b91426230b607458be1 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736282247 +0100	rebase (finish): refs/heads/JR_routing onto 82c9e54f63e836aca0559b7eaf65ca99c686207a
+82c9e54f63e836aca0559b7eaf65ca99c686207a 59196cbfea0d0d9e8ff4cce67df2a1327292ca11 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284056 +0100	commit: sidebar with orders
+59196cbfea0d0d9e8ff4cce67df2a1327292ca11 06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736284064 +0100	rebase (finish): refs/heads/JR_routing onto ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c
+06104ee4fab6e7c8cf00bb013916bbba7fa0cc12 1f60c4fb11196a8099cea13a270b617ddd282aef Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336054 +0100	commit: fix null pointer exception lists admin
+1f60c4fb11196a8099cea13a270b617ddd282aef fadb022f08c2f89ffc85044ec3c88429aa741510 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336642 +0100	rebase (finish): refs/heads/JR_routing onto d58c8f8e6a6157300c38a281868b69bd2584741b
+fadb022f08c2f89ffc85044ec3c88429aa741510 cb35ad4841a01b4675ea4dd565bebd6ca3540d79 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336899 +0100	commit (merge): fix rebase
+cb35ad4841a01b4675ea4dd565bebd6ca3540d79 fbf93ac5a185a3d71f1c2f6ea066cc251514a793 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346959 +0100	rebase (finish): refs/heads/JR_routing onto e33deb14dc3029fb50667dbcaede6b8424f34f85
+fbf93ac5a185a3d71f1c2f6ea066cc251514a793 20b7c1a35de73b60f428aa5be234d7f751aa04be Elvariand <95416175+Elvariand@users.noreply.github.com> 1736347133 +0100	commit: fix rebase
+20b7c1a35de73b60f428aa5be234d7f751aa04be 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736347335 +0100	commit (merge): fix divergence

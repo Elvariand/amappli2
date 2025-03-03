@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@import "../../common/utils.css";
+@import "../common/header-amap.css"; 
+@import "../common/footer-amap.css";
+
+.table-container {
+    padding: 20px;
+}
+
+.table {
+    border-collapse: collapse;
+    	--bs-table-bg: null;
+	--bs-table-color: var(--main-font-color);
+	--bs-table-border-color: var(--orange-600);
+}
+
+.table th {
+    font-weight: bold;
+    font-size: 16px;
+    border-bottom: 2px solid;
+    border-color: inherit;
+    text-align: left;
+    padding: 20px;
+}
+
+.table td {
+    font-size: 16px;
+    padding: 20px;
+    border-bottom: 1px solid;
+    border-color: inherit;
+    vertical-align:middle;
+}
+
+.table button {
+    border: none;
+    background-color: rgba(0,0,0,0);
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.order-head {
+    display: flex; /* Disposition des éléments en ligne */
+    justify-content: space-between; /* Espacement égal entre les éléments */
+    gap: 20px; /* Espace entre les deux .order-details */
+    margin-right: 5%;
+}
+
+.title{
+	margin-top:40px;
+}
+
+.order-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: var(--main-bg-color-white);
+    border: 2px solid var(--orange-600);
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+h5{
+	margin-top:20px;
+}
+
+.title{
+	margin-top:40px;
+}

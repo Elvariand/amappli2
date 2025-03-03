@@ -1,0 +1,51 @@
+0000000000000000000000000000000000000000 92fa4bece8fd83ffdec3777696b658791ef99deb Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709444 +0100	branch: Created from refs/remotes/origin/master
+92fa4bece8fd83ffdec3777696b658791ef99deb 06f5a182e28a58198c8e8c6c8543fd8bd9a737d2 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709762 +0100	pull: Fast-forward
+06f5a182e28a58198c8e8c6c8543fd8bd9a737d2 258ea529e51080c5961ad9cac79f37ad90f26c6b Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709803 +0100	merge JR_AmapAdminCreateUser: Merge made by the 'ort' strategy.
+258ea529e51080c5961ad9cac79f37ad90f26c6b 687c610059aeaf5e23232dae50ee9c14de37f769 Elvariand <95416175+Elvariand@users.noreply.github.com> 1734709903 +0100	commit: merge css architecture
+687c610059aeaf5e23232dae50ee9c14de37f769 4ddfcfc1d2d8638c7e3bb59046148a0028172caf Elvariand <95416175+Elvariand@users.noreply.github.com> 1734710966 +0100	pull: Fast-forward
+4ddfcfc1d2d8638c7e3bb59046148a0028172caf b71cd4014020696c7985221ac9f43fbc15ee2980 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735296775 +0100	pull: Fast-forward
+b71cd4014020696c7985221ac9f43fbc15ee2980 412e9b7c20c419e0398c49c682c61dc41b091886 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735298899 +0100	commit (merge): rework files architectures
+412e9b7c20c419e0398c49c682c61dc41b091886 1e7eabc7399e174f08de6f23f2d9520ea8c6b995 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735299481 +0100	pull: Fast-forward
+1e7eabc7399e174f08de6f23f2d9520ea8c6b995 a490780668fcef73307347ae4a215cc9a43f53da Elvariand <95416175+Elvariand@users.noreply.github.com> 1735300785 +0100	pull: Fast-forward
+a490780668fcef73307347ae4a215cc9a43f53da 20e8d7673425b1ebc9b72da48ec320e294dd1d77 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735301427 +0100	pull: Fast-forward
+20e8d7673425b1ebc9b72da48ec320e294dd1d77 f15594ead3cc6565d612af0049a000759b551a58 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735307583 +0100	pull: Fast-forward
+f15594ead3cc6565d612af0049a000759b551a58 c7d31e664eac5d708431e9674f80ef5bcabb308e Elvariand <95416175+Elvariand@users.noreply.github.com> 1735310544 +0100	pull: Fast-forward
+c7d31e664eac5d708431e9674f80ef5bcabb308e 9b5b092e721f3e933dd97163d38fe4bdc5078603 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735574388 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+9b5b092e721f3e933dd97163d38fe4bdc5078603 4de898ac1d918205026390c543b7b8c1b49ec9d9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735829436 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+4de898ac1d918205026390c543b7b8c1b49ec9d9 a0a88debfaa76417decacf7a2dba96ddf06c6c9f Elvariand <95416175+Elvariand@users.noreply.github.com> 1735893491 +0100	pull: Fast-forward
+a0a88debfaa76417decacf7a2dba96ddf06c6c9f c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc Elvariand <95416175+Elvariand@users.noreply.github.com> 1735894576 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+c48b67b2c01a66484cb2bf4fbf9c5a53d0d5bafc 97450752e6f94dfb487a189de3becfe12bbdc918 Elvariand <95416175+Elvariand@users.noreply.github.com> 1735931322 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+97450752e6f94dfb487a189de3becfe12bbdc918 79e84db3576519788b35ca56be94da4d02b7695f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157364 +0100	pull: Fast-forward
+79e84db3576519788b35ca56be94da4d02b7695f b6f6814520869af6503e9fdcc385b8f3ab413e84 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736157847 +0100	merge JR_AmapAdminCreateUser: Fast-forward
+b6f6814520869af6503e9fdcc385b8f3ab413e84 b278b3ae5db6e1fb0434dbd3568149995aad09d3 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174083 +0100	pull: Merge made by the 'ort' strategy.
+b278b3ae5db6e1fb0434dbd3568149995aad09d3 b43fe5c984f702983ac50e5b47052814e086e1a9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736174134 +0100	merge JR_RolesInit: Merge made by the 'ort' strategy.
+b43fe5c984f702983ac50e5b47052814e086e1a9 79063670d76cd0aab7227baf055c43c4bf3ab880 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196509 +0100	pull: Fast-forward
+79063670d76cd0aab7227baf055c43c4bf3ab880 ae06367db6d5a71e5d51783922bd356781d34dcc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736196798 +0100	commit (merge): fixing conflict
+ae06367db6d5a71e5d51783922bd356781d34dcc 90e08c4fa2c2b72668e8d8163ca7fd0f3902b49c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201641 +0100	pull: Fast-forward
+90e08c4fa2c2b72668e8d8163ca7fd0f3902b49c ed351226bfd62f500a2169b424b009abefdadc7e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736201663 +0100	merge JR_ResponsiveHeader: Merge made by the 'ort' strategy.
+ed351226bfd62f500a2169b424b009abefdadc7e a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736238266 +0100	pull: Fast-forward
+a0763d7c4dcf52c0d4db7276fb75c31a38b78cd4 e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf Elvariand <95416175+Elvariand@users.noreply.github.com> 1736254523 +0100	pull: Fast-forward
+e87ab4d61309914aa4e7fc70df3fecfc7ce9bedf 3358fde9d0b1fdbec7686c5b20c734e3d9e1a0cc Elvariand <95416175+Elvariand@users.noreply.github.com> 1736268954 +0100	pull: Fast-forward
+3358fde9d0b1fdbec7686c5b20c734e3d9e1a0cc 4eacd02ce2a8709ea2abb3aebcf0164df02bb51f Elvariand <95416175+Elvariand@users.noreply.github.com> 1736270493 +0100	commit (merge): fixing clonflict
+4eacd02ce2a8709ea2abb3aebcf0164df02bb51f 3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736271726 +0100	pull: Fast-forward
+3108f4e6c3b1dc14e5ca1754370cfee7646d0a05 82c9e54f63e836aca0559b7eaf65ca99c686207a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736281773 +0100	pull: Fast-forward
+82c9e54f63e836aca0559b7eaf65ca99c686207a ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736283989 +0100	pull: Fast-forward
+ef9339f62a02c4cea9fd96dafd4fcc24316a5f1c d58c8f8e6a6157300c38a281868b69bd2584741b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736336137 +0100	pull: Fast-forward
+d58c8f8e6a6157300c38a281868b69bd2584741b e33deb14dc3029fb50667dbcaede6b8424f34f85 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736346526 +0100	pull: Fast-forward
+e33deb14dc3029fb50667dbcaede6b8424f34f85 48bd80f3f4d6e2dfe6510a1883fefb7014badc6e Elvariand <95416175+Elvariand@users.noreply.github.com> 1736348349 +0100	merge JR_routing: Fast-forward
+48bd80f3f4d6e2dfe6510a1883fefb7014badc6e d7989d0daa0a162f25ca29bdc58645c5a802238a Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369374 +0100	commit (merge): merge fix
+d7989d0daa0a162f25ca29bdc58645c5a802238a f33ef9d33af69332b7643d4dc3995e5a6959ea2b Elvariand <95416175+Elvariand@users.noreply.github.com> 1736369639 +0100	commit (merge): merging fix left details
+f33ef9d33af69332b7643d4dc3995e5a6959ea2b 763bbce16f75f4096af31d05808676da944cadfa Elvariand <95416175+Elvariand@users.noreply.github.com> 1736371115 +0100	pull: Fast-forward
+763bbce16f75f4096af31d05808676da944cadfa cdd78ad66dd43e743c84d3ca6d3bbf1d30ba7a77 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387192 +0100	pull: Fast-forward
+cdd78ad66dd43e743c84d3ca6d3bbf1d30ba7a77 748b1ff64923a9633bdc5ac5167854016c61e010 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736387363 +0100	commit (merge): fix merge
+748b1ff64923a9633bdc5ac5167854016c61e010 7a0dbe9cd3609d546905179ed26474b41f6c773c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736409829 +0100	pull: Fast-forward
+7a0dbe9cd3609d546905179ed26474b41f6c773c 62051cabafc22fcaa653b86f03cbcfa118821711 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736413806 +0100	pull: Fast-forward
+62051cabafc22fcaa653b86f03cbcfa118821711 aeaf6354b1d3216129395c17201ff4c75d0543a6 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736413975 +0100	commit: add 403 page (only front)
+aeaf6354b1d3216129395c17201ff4c75d0543a6 f0830f6e5d1a75639135aa70c412f19f1a33d80c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417207 +0100	merge JR_autofill: Fast-forward
+f0830f6e5d1a75639135aa70c412f19f1a33d80c 6099ed977f5707ae0f33e1756571317beebc3342 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736417219 +0100	pull: Merge made by the 'ort' strategy.
+6099ed977f5707ae0f33e1756571317beebc3342 7952a2e66bc15974e6df7790c0202943017f3ed9 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736434082 +0100	pull: Fast-forward
+7952a2e66bc15974e6df7790c0202943017f3ed9 6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736459765 +0100	pull: Fast-forward
+6eaecd3e422fce0fca3e13c4e24cda3d134bfe65 9edbd7aeb64bbdad58bfbc3576f27d695c71a62c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736460435 +0100	pull: Fast-forward
+9edbd7aeb64bbdad58bfbc3576f27d695c71a62c 02895c248a78eee7726eb54e9455e4bada98c7c8 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736470925 +0100	merge JR_autofill: Fast-forward
+02895c248a78eee7726eb54e9455e4bada98c7c8 f0f6bd4ed956225cb5a3d0c8059d0fb147607f64 Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504985 +0100	pull: Fast-forward
+f0f6bd4ed956225cb5a3d0c8059d0fb147607f64 4e983a616372449e0b44b85652b6bebcfa8e438c Elvariand <95416175+Elvariand@users.noreply.github.com> 1736504994 +0100	merge JR_autofill: Merge made by the 'ort' strategy.

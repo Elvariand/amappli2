@@ -1,0 +1,202 @@
+@import "fonts.css";
+@import "theme/theme-1-dark.css";
+@import "theme/theme-1-light.css";
+@import "theme/theme-2-light.css";
+@import "theme/theme-2-dark.css";
+@import "theme/theme-3-light.css";
+@import "theme/theme-3-dark.css";
+@import "theme/theme-4-light.css";
+@import "theme/theme-4-dark.css";
+@import "theme/theme-5-light.css";
+@import "theme/theme-5-dark.css";
+@import "theme/theme-6-light.css";
+@import "theme/theme-6-dark.css";
+
+
+:root {
+  --orange-050: #ffcbad;
+  --orange-100: #ffbe98;
+  /* peach */
+  --orange-300: #FFB185;
+  /* light tangerine */
+  --orange-600: #ffa570;
+  /* tangerine */
+  --orange-700: #d07946;
+  --orange-900: #B95317;
+  --green-400 : #8dac95;
+  --green-500 : #336140;
+  --green-600 : #284b32;
+  --green-700 : #455449;
+  /* light olive */
+  --green-800 : #344238;
+  --green-900 : #223026;
+  /* olive */
+  --white-300 : #FFFAF8;
+  /* snow */
+  --black-900 : #0e0e0e;
+  --black-700 : #292929;
+  --black-400 : #A1A1A1;
+  --black-200 : #C4C4C4;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.accordion {
+  --bs-accordion-btn-icon            : none;
+  --bs-accordion-btn-active-icon     : none;
+  --bs-accordion-color               : var(--alt-font-color);
+  --bs-accordion-bg                  : transparent;
+  --bs-accordion-transition          : color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
+  --bs-accordion-border-color        : var(--bs-border-color);
+  --bs-accordion-border-width        : var(--bs-border-width);
+  --bs-accordion-border-radius       : var(--bs-border-radius);
+  --bs-accordion-inner-border-radius : calc(var(--bs-border-radius) - (var(--bs-border-width)));
+  --bs-accordion-btn-color           : var(--alt-font-color);
+  --bs-accordion-btn-bg              : transparent;
+  --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  --bs-accordion-active-color        : inherit;
+  --bs-accordion-active-bg           : color-mix(in srgb, var(--orange-900), transparent 25%);
+}
+
+.accordion-item {
+  border       : 0;
+  border-bottom: 2px solid var(--bs-accordion-border-color);
+}
+
+.accordion-button:hover {
+  background-color: color-mix(in srgb, var(--green-600), transparent 25%);
+}
+
+.accordion .active {
+  color      : var(--main-font-color);
+  font-weight: bold;
+}
+
+.accordion a {
+  color: var(--bs-accordion-color);
+}
+
+.accordion .disabled {
+  color: var(--bs-secondary);
+}
+
+.form-range::-moz-range-thumb {
+  background-color: var(--main-bg-color);
+  border          : 1px solid var(--main-font-color);
+}
+
+.themed-popover {
+  --bs-popover-header-bg: var(--main-bg-color);
+  --bs-popover-header-color: var(--main-font-color);
+}
+
+input[type=range]{
+	appearance:none;
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: 1px solid var(--main-font-color);
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: var(--main-bg-color);
+    margin-top: -4px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
+
+.text-justify {
+	text-align: justify!important;
+}
+
+.nunito {
+  font-family: 'Nunito' !important;
+}
+
+.nunito-sans,
+.nunito-sans-title :is(h1, h2, h3, h4, h5, h6),
+.nunito-sans-button .btn,
+.nunito-sans-button button {
+  font-family: 'Nunito Sans' !important;
+}
+
+.futura,
+.futura-title :is(h1, h2, h3, h4, h5, h6),
+.futura-button .btn,
+.futura-button button {
+  font-family: 'Futura' !important;
+}
+
+.futura-condensed {
+  font-family: 'Futura Condensed' !important;
+}
+
+.audiowide,
+.audiowide-title :is(h1, h2, h3, h4, h5, h6),
+.audiowide-button .btn,
+.audiowide-button button {
+  font-family: 'Audiowide' !important;
+}
+
+.grenze,
+.grenze-title :is(h1, h2, h3, h4, h5, h6),
+.grenze-button .btn,
+.grenze-button button {
+  font-family: 'Grenze' !important;
+}
+
+.caveat,
+.caveat-title :is(h1, h2, h3, h4, h5, h6),
+.caveat-button .btn,
+.caveat-button button {
+  font-family: 'Caveat' !important;
+}
+
+.limelight,
+.limelight-title :is(h1, h2, h3, h4, h5, h6),
+.limelight-button .btn,
+.limelight-button button {
+  font-family: 'Limelight' !important;
+}
+
+.inter {
+  font-family: 'Inter' !important;
+}
+
+.pointer {
+  cursor: pointer !important;
+}
+
+.cursor {
+  cursor: default !important;
+}
+
+#map {
+  width   : 100vw;
+  height  : 100vh;
+  /* La carte prend tout l'écran */
+  position: fixed;
+  /* Elle sert de background */
+  top     : 0;
+  left    : 0;
+  z-index : -1;
+  /* Place la carte derrière le contenu */
+}

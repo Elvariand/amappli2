@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+ .navbar {
+      background-color: #FFBE98;
+    }
+    .navbar-brand {
+      display: flex;
+      align-items: center;
+    }
+    .logo-placeholder {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+      background-color: white;
+      border-radius: 50%;
+      padding: 5px;
+    }
+    .navbar-nav .nav-link {
+      margin-right: 20px;
+    }
+    .btn-inscrire {
+      background-color: white !important;
+      color: black !important;
+      border: none !important;
+      border-radius: 20px !important;
+      padding: 5px 15px !important;
+      margin-right: 200px;
+    }
+    .btn-inscrire:hover {
+      background-color: #f2f2f2 !important;
+    }

@@ -1,0 +1,88 @@
+@charset "UTF-8";
+@import "../common/utils.css";
+
+@import "common/header.css";
+
+@import "common/footer.css";
+
+
+
+/* .mission-card {
+	background-color: #ffffff;
+	border-radius: 25px;
+	padding: 20px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	margin-top: 40px;
+	height: 100%;
+	border: 1.5px solid #FFBE98;
+} */
+
+
+.value-text {
+	color: #333333;
+}
+
+.value-title {
+    margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+
+.title {
+	font-weight: bold;
+	font-size: 2rem;
+	margin-top: 20px;
+	color: #FFB185 !important;
+}
+
+.team-card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1.5px solid #FFBE98;
+    margin-top: 20px;
+}
+
+.team-card img {
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1.5px solid #FFBE98;
+    max-width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.team-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #333333;
+}
+
+.team-role {
+    font-size: 1rem;
+    color: #555555;
+}
+
+.value {
+	background-color: #ffffff;
+	border-radius: 25px;
+	padding: 20px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	border: 1.5px solid #FFBE98;
+	width: 100%;
+	
+}
+
+ hr {
+  width: 70%; 
+  height: 2px; 
+  margin: 10px auto; 
+  
+  border: none; 
+}
+
+
+
