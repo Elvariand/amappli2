@@ -1,11 +1,11 @@
 // mo access token for mapbox 
-mapboxgl.accessToken = 'pk.eyJ1IjoidGlyb2lybW9yZ2FuZSIsImEiOiJja2cyOXRqYWkwcDdsMnRwaWtzYWR3Zjc2In0.yp4z_Ui7Ukj7I4p6au750g';
+mapboxgl.accessToken = 'REDACTED';
 
 //initial values
 let zoom = 14;
 let userLatitude = 42.1880896; // corse
 let userLongitude = 9.0684138;
-const fallbackStyle = 'mapbox://styles/tiroirmorgane/cm4pjeh6h007k01r0fhs20pkd'; //dark theme as fallback (when no tenancy)
+const fallbackStyle = 'mapbox://styles/REDACTED'; //dark theme as fallback (when no tenancy)
 //checks if styleMabox is defined, if not shows the fallback style (if we don't define it in the jsp file like in amapplis jsp for eg)
 var mapStyle = typeof styleMapboxLight !== 'undefined' ? document.body.classList.contains("dark") ? styleMapboxDark : styleMapboxLight : fallbackStyle;
 var mapLatitude = (typeof latitude !== 'undefined' && latitude !== "") ? parseFloat(latitude) : userLatitude;
